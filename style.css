@@ -48,3 +48,9 @@ color:#200f08 ;
 //border-top: 1px dotted #000;
 background:#fff;
 }
+a:hover {
+border-bottom:1px dotted #d2543c;
+}
+a img {
+border:none;
+}
